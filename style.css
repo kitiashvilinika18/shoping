@@ -1,0 +1,182 @@
+/*HOME*/
+}
+.background-image{
+	max-width: 100%;
+}
+.homemain{
+	background: black;
+	display: block;
+	padding: 20px;
+}
+.logo{
+	max-width: 140px;
+	float: left;
+	z-index: 1;
+	margin-right: 30px;
+	display: inline-block;
+}
+.nav{
+	font-size: 26px;
+	margin-left: 50px;
+}
+/*T-shirt*/
+.tshirt{
+	width: 200px;
+	margin-top: 5%;
+	z-index: 1;
+	margin-left: 9%;
+}
+.h2{
+	margin-top: 2%;
+	margin-left: 44%;
+}
+.h4color{
+	margin-left: 4%;
+	display: inline-block;
+	color: orange;
+}
+s{
+	color: red;
+}
+h4{
+	margin-left: 4%;
+	display: inline-block;
+}
+/*News*/
+.news3img{
+	width: 19%;
+	height: 30%;
+	padding: 10px;
+	float: right;
+}
+.news2img{
+	width: 20%;
+	float: left;
+	padding: 10px;
+}
+.news1img{
+	width: 20%;
+	height: 30%;
+	transition: 1s;
+	float: right;
+	padding: 10px;
+}
+.news1h3{
+	font-size: 20px;
+	display: inline-block;
+	float: right;
+}
+.news1drunk{
+	width: 100px;
+	height: 200px;
+	margin-left: %;
+	transition: 1s;
+	opacity: 0.3;
+}
+.news1drunk:hover{
+	width: 300px;
+	height: 400px;
+	opacity: 0.9;
+}
+.newstext{
+	float: left;
+}
+.lead{
+	font-size: 24px;
+	margin-top: 2%;
+	color: #9b0210
+}
+h3{
+	color: #021094
+}
+.tablecolor{
+	background: #031459;
+	color: white;
+	padding: 50px;
+	margin-top: 10%;
+}
+hr{
+	background: aqua;
+}
+/*SHOES*/
+.shoesimg1{
+	max-width: 25%;
+}
+.shoesimg2{
+	margin-top: 10px;
+	width:  100px;
+	transition: 1s;
+}
+.shoesimg2:hover{
+	width: 240px;
+}
+.shoesh3{
+	color: red;
+	display: block;
+}
+.shoesh2{
+	display: block;
+}
+/*Card*/
+.card{
+	position: fixed; right: 0; 
+	max-width: 20%;
+	opacity: 0.3;
+	z-index: 1;
+	transition: 0.1s;
+}
+.card:hover{
+	z-index: 1;
+	opacity: 0.8;
+}
+.card-text{
+	font-size: 23px;
+	color: orange;
+}
+.card-title{
+	font-size: 30px;
+	margin-left: 5px;
+	color: red;
+}
+/*Jacket*/
+.jacketimg1{
+	max-width: 25%;
+}
+.jacketimg2{
+	margin-top: 10px;
+	width:  100px;
+	transition: 1s;
+}
+.jacketimg2:hover{
+	width: 240px;
+}
+.jacketh3{
+	color: red;
+	display: block;
+}
+.jacketh2{
+	display: block;
+}
+/*WATCHES*/
+.watchesimg1{
+	max-width: 20%;
+}
+.watchesimg2{
+	margin-top: 10px;
+	width:  100px;
+	transition: 1s;
+}
+.watchesimg2:hover{
+	width: 150px;
+}
+.watchesh3{
+	color: red;
+	display: block;
+}
+.watchesh2{
+	display: block;
+}
+s{
+	font-size: 19px;
+}
+@media (max-width: 991px)
